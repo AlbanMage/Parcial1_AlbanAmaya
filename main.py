@@ -37,4 +37,4 @@ while seguir:
         """)
         seguir = False 
     else:
-        print("No se ha ingresado un número válido. Intente de nuevo.")
+        print("No se ha ingresado un número válido. Vuelve a intentarlo.")
